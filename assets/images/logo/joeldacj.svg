@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 339.1 787.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1=".01" y1="495.39" x2="339.08" y2="495.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3f448c"/>
+      <stop offset="1" stop-color="#00022e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0" y1="552.3" x2="339.1" y2="552.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00022e"/>
+      <stop offset="1" stop-color="#3f448c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="31.47" y1="259.97" x2="339.08" y2="259.97" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="184.79" y1="114.81" x2="330.93" y2="114.81" gradientTransform="translate(523.86 187.88) rotate(-180)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Isotipo">
+    <path class="cls-3" d="m339.08,203.05v385.79c0,26.06-3.27,50.98-9.8,74.77-18.6,69.45-70.23,107.15-136.34,119.51-18.53,3.48-38.2,4.9-58.65,4.54-50.56.28-91.53-9.94-134.28-28.9l41.68-103.67c43.39,18.04,125.33,37.78,144.86-14.91,4.26-11.57,6.39-26.98,6.39-46.3V203.05h146.14Z"/>
+    <path class="cls-1" d="m339.1,316.87l-.03,271.98c0,26.06-3.27,50.98-9.8,74.77-18.6,69.45-70.23,107.15-136.34,119.51-18.53,3.48-38.2,4.9-58.65,4.54-50.56.28-91.53-9.94-134.28-28.9l41.68-103.67c43.39,18.04,125.33,37.78,144.86-14.91l152.56-323.32Z"/>
+    <rect class="cls-2" x="31.47" y="203.05" width="307.61" height="113.83"/>
+    <circle class="cls-4" cx="266" cy="73.07" r="73.07"/>
+  </g>
+</svg>
